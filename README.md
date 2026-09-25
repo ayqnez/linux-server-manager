@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-The project provides basic tools for Linux server administration and monitoring.
+The project helps administrators perform basic Linux server management tasks.
 
 Linux Server Manager is a DevOps project containing basic scripts and documentation for Linux server administration.
 
