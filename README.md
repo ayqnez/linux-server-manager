@@ -14,3 +14,7 @@ THIS IS AN INCORRECT PROJECT DESCRIPTION.
 scripts/    - Linux administration scripts
 docs/       - Project documentation
 README.md   - Project overview
+
+## Security
+
+Scripts should be reviewed before being executed on production servers.
